@@ -2,7 +2,7 @@ window.addEventListener('load', ()=> {
    let long;
    let lat;
    //Get your API key from https://darksky.net/dev
-   const apiKey = "YOUR API KEY";
+   const apiKey = "772669a779bcfd08cbbb81c16b46116c";
    let date = new Date(0);
    let description = document.querySelector('.temperature-description');
    let degree = document.querySelector('.temperature-degree');
